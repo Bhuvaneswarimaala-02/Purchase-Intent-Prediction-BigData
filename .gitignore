@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+.pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+
+# VSCode settings
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+
+# Render deploy logs or temp
+*.bak
+*.swp
