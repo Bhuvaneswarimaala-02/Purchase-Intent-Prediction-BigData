@@ -88,6 +88,12 @@ Various visualizations were generated during EDA to understand:
 
 ---
 
+## Backend Endpoint (using FastAPI)
+
+![image](https://github.com/user-attachments/assets/7651159b-a8e4-4563-8d7d-fda852db8170)
+
+---
+
 ## 🚀 Deployment (Work In Progress)
 
 The model will soon be integrated into a Streamlit-based web app for interactive user prediction.  
