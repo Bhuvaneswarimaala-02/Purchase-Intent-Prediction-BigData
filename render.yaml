@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: fastapi-spark-app
+    env: docker
+    plan: free
