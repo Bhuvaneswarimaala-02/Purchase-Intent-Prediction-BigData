@@ -53,7 +53,8 @@ This project aims to predict whether an online shopper will make a purchase or n
 - **Apache Spark** for distributed data processing
 - **MLlib** for machine learning model training (Random Forest)
 - **Python** for scripting
-- **Jupyter Notebook** for exploratory analysis and visualization
+- **Google Colab** for exploratory analysis and visualization
+- **Fast API** for endpoint
 
 ---
 
