@@ -96,6 +96,6 @@ Various visualizations were generated during EDA to understand:
 
 ## 🚀 Deployment (Work In Progress)
 
-The model will soon be integrated into a Streamlit-based web app for interactive user prediction.  
+The model will soon be integrated into a web app for interactive user prediction.  
 
 ---
